@@ -1,1 +1,3 @@
-# sukinema-of-go
+# 起動時は以下のコマンドを実行
+go run main.go
+
